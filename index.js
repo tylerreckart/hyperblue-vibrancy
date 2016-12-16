@@ -38,7 +38,7 @@ const colors = {
 const cursorColor = LIGHT_GRAY;
 const borderColor = backgroundColor;
 
-exports.onWindow = browserWindow => browserWindow.setVibrancy('dark');
+exports.onWindow = browserWindow => browserWindow.setVibrancy('ultra-dark');
 exports.decorateConfig = (config) => {
 	return Object.assign({}, config, {
 	  foregroundColor,
