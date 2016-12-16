@@ -1,7 +1,7 @@
 'use strict';
 
 // Constants
-const backgroundColor = 'RGBA(22, 22, 27, .75)';
+const backgroundColor = 'rgba(22, 22, 27, .75)';
 const foregroundColor = '#cbcfd4';
 
 // Colors
