@@ -1,6 +1,6 @@
 {
   "name": "hyperblue-vibrancy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A variant of the Hyperblue theme for Hyper that utilizes the Vibrancy API",
   "main": "index.js",
   "repository": {
